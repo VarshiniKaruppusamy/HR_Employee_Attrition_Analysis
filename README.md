@@ -59,18 +59,18 @@ kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Analysis Sections
 
-### Day 1 — Setup & Exploration
+### Day 1 - Setup & Exploration
 - Loaded 1,470 employee records
 - Explored 35 features
 - Identified overall attrition rate of ~16.1%
 
-### Day 2 — Attrition Overview & Cost Analysis
+### Day 2 - Attrition Overview & Cost Analysis
 - Department-level attrition breakdown
 - Business cost calculation:
   Conservative estimate: ~$4.2M annually
   Aggressive estimate: ~$16.8M annually
 
-### Day 3 — Factor Analysis
+### Day 3 - Factor Analysis
 - Overtime vs attrition
 - Job satisfaction vs attrition
 - Work-life balance vs attrition
@@ -78,12 +78,12 @@ kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 - Salary distribution by attrition
 - Job role breakdown
 
-### Day 4 — Deep Dive Analysis
+### Day 4 - Deep Dive Analysis
 - Correlation heatmap of all features
 - Age distribution by attrition
 - Distance from home impact
 
-### Day 5 — Machine Learning Model
+### Day 5 - Machine Learning Model
 - Label encoding of categorical variables
 - Train/test split (80/20, stratified)
 - Logistic Regression baseline
@@ -95,21 +95,21 @@ kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Key Findings
 
-1. **Overall attrition rate is 16.1%** — costing an
+1. **Overall attrition rate is 16.1%** - costing an
    estimated $4-17M annually depending on
    replacement cost assumptions
 
 2. **Overtime is the strongest behavioral predictor**
-   — employees working overtime are 3x more likely
+   - employees working overtime are 3x more likely
    to leave than those who don't
 
 3. **Sales Representatives have the highest attrition**
    at ~40% — nearly 1 in 2 Sales Reps leave annually
 
 4. **Employees who left earned ~$2,000 less per month**
-   than those who stayed — salary is a key retention lever
+   than those who stayed - salary is a key retention lever
 
-5. **Attrition peaks in the first 2 years** — new
+5. **Attrition peaks in the first 2 years** - new
    employees are at highest risk, pointing to
    onboarding and culture fit issues
 
@@ -148,19 +148,19 @@ kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Visualizations
 
-### fig01 — Department Attrition
+### fig01 - Department Attrition
 ![Department](plots/fig01_department_attrition.png)
 
-### fig02 — Key Attrition Factors
+### fig02 - Key Attrition Factors
 ![Factors](plots/fig02_attrition_factors.png)
 
-### fig03 — Correlation Heatmap
+### fig03 - Correlation Heatmap
 ![Correlation](plots/fig03_correlation.png)
 
-### fig04 — Age & Distance Analysis
+### fig04 - Age & Distance Analysis
 ![Age Distance](plots/fig04_age_distance.png)
 
-### fig05 — Feature Importance
+### fig05 - Feature Importance
 ![Features](plots/fig05_feature_importance.png)
 
 
@@ -176,7 +176,7 @@ kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Author
 **Varshini Karuppusamy**
-MS Engineering Management — Northeastern University '26
+MS Engineering Management - Northeastern University '26
 karuppusamy.v@northeastern.edu
 
 ---
